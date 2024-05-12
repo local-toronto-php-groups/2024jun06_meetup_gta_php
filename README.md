@@ -26,4 +26,5 @@ Note-able links:
 - [PHP Enums With Practical Examples - Full PHP 8 Tutorial(YouTube video -- my suggestion)](https://www.youtube.com/watch?v=5Cgio2OfOYk)
 - [https://php.watch/versions/8.1/enums](https://php.watch/versions/8.1/enums)
 - [https://php.watch/rfcs/property-hooks](https://php.watch/rfcs/property-hooks)
+- [https://wiki.php.net/rfc/deprecate_dynamic_properties](https://wiki.php.net/rfc/deprecate_dynamic_properties)
 
