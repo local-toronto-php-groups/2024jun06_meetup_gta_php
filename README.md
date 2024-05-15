@@ -14,7 +14,9 @@ Larry co-authored the Enums RFC (accepted, PHP 8.1), and the Property Hooks RFC 
 
 Ilija is paid by the PHP Foundation (https://thephp.foundation/structure/). Larry is a volunteer, who has contributed countless hours, to making these RFC's happen. Thank you to both!
 
-Larry is going to go through both RFC's with a look at their practical application to our day-to-day PHP development. 
+Larry is going to talk about Property Hooks at our meet-up. Bring your questions! 
+
+We are recording our meet-up, in the hope that publishing it will benefit our fellow PHP devs.
 
 ##
 Note-able links:
