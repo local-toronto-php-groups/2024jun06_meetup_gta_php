@@ -2,7 +2,7 @@
 <br>
 
 - food & beverages sponsored by [7shifts.com](https://7shifts.com) ([Google Map](https://maps.app.goo.gl/kEiQ3KsnjafybhJb9))
-- Thank you to Luke Galea, Jeremy Ho, and to everyone at 7shifts, for making this meet-up happen!
+- Thank you to Luke Galea, Jeremy Ho, Martin Price, Hazel Zenarosa, and to everyone at 7shifts, for making this meet-up happen!
 
 ##
 Meetup.com listing: [https://www.meetup.com/gta-php-user-group-toronto/events/300982596/](https://www.meetup.com/gta-php-user-group-toronto/events/300982596/)
