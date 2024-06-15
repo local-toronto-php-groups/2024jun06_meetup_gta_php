@@ -24,6 +24,7 @@ Note-able links:
 - [https://wiki.php.net/rfc/enumerations](https://wiki.php.net/rfc/enumerations)
 - [https://wiki.php.net/rfc/property-hooks](https://wiki.php.net/rfc/property-hooks)
 - [Let's talk about property hooks! (YouTube video)](https://www.youtube.com/watch?v=ULUrhIrjyAg)
+- [Let's talk about property hooks (YouTube video - stream 1.5 hrs)](https://www.youtube.com/watch?v=eyYeNE4NLMI)
 - [Larry's bio](https://www.garfieldtech.com/bio)
 - [PHP Enums With Practical Examples - Full PHP 8 Tutorial(YouTube video -- my suggestion)](https://www.youtube.com/watch?v=5Cgio2OfOYk)
 - [https://php.watch/versions/8.1/enums](https://php.watch/versions/8.1/enums)
