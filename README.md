@@ -31,3 +31,6 @@ Note-able links:
 - [https://php.watch/rfcs/property-hooks](https://php.watch/rfcs/property-hooks)
 - [https://wiki.php.net/rfc/deprecate_dynamic_properties](https://wiki.php.net/rfc/deprecate_dynamic_properties)
 
+##
+This meet-up's YouTube video is at [https://www.youtube.com/watch?v=kZ02hWKHALM](https://www.youtube.com/watch?v=kZ02hWKHALM)
+
